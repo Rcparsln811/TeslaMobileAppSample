@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, StyleSheet, StatusBar , ImageBackground} from 'react-native';
+import { View, Text, StyleSheet, StatusBar, ImageBackground } from 'react-native';
 import CarItem from './components/CarItem';
 
 
@@ -7,8 +7,8 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      
-      <CarItem />
+       <CarItem/>
+        
 
     </View>
   )
@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#fff'
   },
-  
+
 });
 
 
