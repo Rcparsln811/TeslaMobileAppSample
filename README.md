@@ -19,3 +19,22 @@
  - Gerekli component'lerin bir kısmını oluşturudum.
 
  
+## STAGE 3
+
+<img src="https://github.com/Rcparsln811/TeslaMobileAppSample/assets/119931970/06889ee1-66f1-4159-9c93-dc029401bb2a" width="360" height="740">
+
+- Butonları, butonların style ayarlarını ve üzerinde yazması gereken textleri yerleştirdim.
+
+
+## STAGE 4
+
+<img src="https://github.com/Rcparsln811/TeslaMobileAppSample/assets/119931970/43b1829a-02fa-406f-8b83-c32b9092d271" width="360" height="740">
+
+- FlatList oluşturup kullanacağım parametreleri başka bir dosyada hazırlayıp listeye oradan çektim.
+- Logo ve menü işaretlerini üst köşelere yerleştirdim.
+
+
+## RESULT
+![GIF](https://github.com/Rcparsln811/TeslaMobileAppSample/assets/119931970/71274701-7ef9-4de3-936f-380c947a505d)
+
+
