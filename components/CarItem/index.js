@@ -17,8 +17,25 @@ const CarItem = (props) => {
          <Text style={styles.subTitle}>$74,420'den başlayan fiyatlarla</Text>
 
         </View>
-        <StyledButton/>
 
+        <View style={styles.buttonContainer}>
+          <StyledButton 
+           type = "primary" 
+           content ={"custom order"} 
+           onPress={()=>{
+             console.warn("Custom Ordar was pressed")
+          }} 
+          />
+          <StyledButton 
+          type = "secondary" 
+          content ={"existing inventory"} 
+          onPress={()=>{
+            console.warn("Existing Inventory was pressed")
+          }} 
+          />
+
+        </View>
+        
       </View>
   );
 };
